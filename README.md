@@ -1,8 +1,8 @@
-#A tetris clone made with SDL2/C++
+# A tetris clone made with SDL2/C++
 
-##How to compile
+## How to compile
 
-###On Linux
+### On Linux
 
 First install SDL2: apt-get install libsdl2-dev
 
