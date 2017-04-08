@@ -14,6 +14,8 @@ Then run program with: ./main
 
 Open project in Visual Studio (or anything). If you are on VS you can use Nuget packages to get SDL2. Then compile.
 
+You can download final product: https://yadi.sk/d/eed4z1oT3GmkdG
+
 ## Screenshots
 
 ![Alt text](Tetris/data/Screenshot_1.png?raw=true)
